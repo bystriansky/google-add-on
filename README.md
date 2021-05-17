@@ -1,5 +1,4 @@
 # Google Calendar Add-on #
-##### Pre GoodRequest Academy
 ---
 
 ## Zadanie
