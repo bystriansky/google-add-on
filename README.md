@@ -6,7 +6,7 @@
 - Po vyžiadaní hodnotenia príde všetkým účastníkom mail s **požiadavkou na hodnotenie a linkom na event**.
 - **Možnosť ohodnotiť** event pre účastníka, prostredníctvom detailu udalosti.
 - Povinne zadá hodnotenie **1 až 5 hviezdičiek**, nepovinne môže zadať aj slovné hodnotenie. Hodnotenie je dostupné aj bez predošlého vyžiadania organizátorom (to slúži iba ako notifikácia).
-- Správa by mala chodiť iba účastníkom v rámci aktuálnej Google Workspace domény (v našom prípade goodrequest.com).
+- Správa by mala chodiť iba účastníkom v rámci aktuálnej Google Workspace domény.
 - Hodnotenie sa môže spracovať nasledovne (zoradené podľa obtiažnosti, ideálne zapracovať všetky 3 možnosti):
     - Príde mailom organizátorovi eventu
     - Anonymne sa zapíše na koniec popisu eventu
